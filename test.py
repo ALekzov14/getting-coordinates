@@ -15,10 +15,9 @@ except:
 
 window = Tk()
 window.iconbitmap("icon.ico")
-window.title("test")
+window.title("getting-coordinates")
 window.geometry("390x240")
 
-# Создание scrolledtext
 txt = scrolledtext.ScrolledText(window, width=40, height=14)
 txt.pack()
 
