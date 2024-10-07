@@ -14,6 +14,7 @@ except:
     from tkinter import*
 
 window = Tk()
+window.iconbitmap("icon.ico")
 window.title("test")
 window.geometry("390x240")
 
