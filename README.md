@@ -2,5 +2,5 @@
 Getting cursor coordinates in python   
 The program also has an interface
 
-#View
-![](https://i.imgur.com/VYjIphG.png)
+# View   
+![](https://imgur.com/a/2MoSOkK)
